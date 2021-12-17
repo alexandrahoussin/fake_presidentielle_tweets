@@ -1,3 +1,3 @@
 # fake_presidentielle_tweets
 
-The first app with #DASH 
+The first app with <b>DASH</b>
